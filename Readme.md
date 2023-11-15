@@ -1,7 +1,7 @@
 React ToDo List, using fetch and the 4Geeks Mock ToDo API.
 
 <p>ToDo with Fetch</p>
-Head over to [StackBlitz](https://stackblitz.com/edit/stackblitz-starters-jrvkre?file=src%2FApp.js) to check the project code and demo! 
+Head over to [StackBlitz] (https://stackblitz.com/edit/stackblitz-starters-jrvkre?file=src%2FApp.js) to check the project code and demo! 
 
 <p>Screenshots!</p>
 <img src="https://github.com/AugustoCarrasco/pt-48-augustocarrasco-todo-fetch/assets/142824503/29b8a4bf-6dc3-4891-88b7-f4cf7a5c628d"/>
@@ -9,7 +9,7 @@ Head over to [StackBlitz](https://stackblitz.com/edit/stackblitz-starters-jrvkre
 
 
 <h4>Experimenting with other Opern APIs</h4> 
-Head over to [StackBlitz](https://stackblitz.com/edit/stackblitz-starters-encwxq?file=src%2FApp.js) to check the project code and demo! 
+Head over to [StackBlitz] (https://stackblitz.com/edit/stackblitz-starters-encwxq?file=src%2FApp.js) to check the project code and demo! 
 
 <p>Screenshots!</p>
 
